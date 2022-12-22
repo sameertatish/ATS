@@ -1,0 +1,12 @@
+{
+    "logInTitle" : "تسجيل الدخول",
+    "logInButton" : "ادخل",
+    "HomePage" : "الصفحة الرئيسية",
+    "HistoryPage": "السجل",
+    "logout": "تسجيل خروج",
+    "QR":"باركود",
+    "FACE": "وجه",
+    "userName": "اسم المستخدم",
+    "password":"كلمة المرور",
+    "noHistory" : "السجل فارغ"
+}

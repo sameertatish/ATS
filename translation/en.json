@@ -1,0 +1,12 @@
+{
+    "logInTitle" :"log In",
+    "logInButton" : "Login",
+    "HomePage" : "HomePage",
+    "HistoryPage": "HistoryPage",
+    "logout": "logout",
+    "QR":"QR",
+    "FACE": "FACE",
+    "userName": "user name",
+    "password":"password",
+    "noHistory" : "no history"
+}
